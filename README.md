@@ -1,1 +1,1 @@
-# The forontpage of a chair website
+# The frontpage of a chair website
